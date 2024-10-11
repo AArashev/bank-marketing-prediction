@@ -27,6 +27,7 @@ This project involves predicting the outcomes of bank marketing campaigns using 
 - Categorical features were one-hot encoded.
 - Numerical features were scaled where needed (e.g., for SVC and Logistic Regression).
 - Feature selection was applied for regression tasks to pick the most relevant variables.
+![Scaled_Features](https://github.com/user-attachments/assets/4dab10ac-7562-4037-b2a2-ca7e2625b27e)
 
 ## Results and Evaluation
 
