@@ -16,12 +16,12 @@ This project involves predicting the outcomes of bank marketing campaigns using 
 ## Models Used
 
 1. **Logistic Regression**: For binary classification of subscription outcomes.
-2. **Random Forest Classifier**: To predict whether a client will subscribe based on categorical and numerical features.
-3. **Support Vector Classifier (SVC)**: Used with a tuned parameter grid for optimal classification performance.
+2. **Random Forest Classifier**: This classifier predicts whether a client will subscribe based on categorical and numerical features.
+3. **Support Vector Classifier (SVC)**: This is used with a tuned parameter grid for optimal classification performance.
 4. **Support Vector Regression (SVR)**: Applied to predict continuous target variables (regression task).
 5. **Decision Tree Regression**: Simple model for regression tasks with decision trees.
 6. **Random Forest Regression**: Ensemble method for continuous predictions.
-
+7. **K-means Clustering**:partitioning a dataset into a pre-defined number of clusters.
 ## Feature Engineering and Preprocessing
 
 - Categorical features were one-hot encoded.
