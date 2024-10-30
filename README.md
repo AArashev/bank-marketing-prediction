@@ -1,5 +1,5 @@
 # bank-marketing-prediction
-"Predicting Bank Marketing Campaign Outcomes Using Classification and Regression Models.Analyze the customer segmentation with Clustering "
+"Predicting Bank Marketing Campaign Outcomes Using Classification and Regression Models Analyze the customer segmentation with Clustering. "
 
 
 
