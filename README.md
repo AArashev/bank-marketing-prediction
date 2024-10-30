@@ -1,5 +1,6 @@
 # bank-marketing-prediction
-Predicting Bank Marketing Campaign Outcomes Using Classification and Regression Models".
+"Predicting Bank Marketing Campaign Outcomes Using Classification and Regression Models.Analyze the customer segmentation with Clustering "
+
 
 
 
@@ -7,7 +8,7 @@ Predicting Bank Marketing Campaign Outcomes Using Classification and Regression 
 
 # Bank Marketing Prediction
 
-This project involves predicting the outcomes of bank marketing campaigns using various classification and regression models. The dataset contains information about phone calls made by a Portuguese bank to market term deposits. The goal is to determine whether a client will subscribe to the product based on various features.
+This project involves predicting the outcomes of bank marketing campaigns using various classification and regression models. The dataset contains information about phone calls made by a Portuguese bank to market term deposits. The goal is determining whether a client will subscribe to the product based on various features.
 
 ## Project Structure
 
