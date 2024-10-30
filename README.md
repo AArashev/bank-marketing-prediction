@@ -12,6 +12,7 @@ This project involves predicting the outcomes of bank marketing campaigns using 
 ## Project Structure
 
 - **`Regression_Final.ipynb`**: The main Jupyter notebook containing the entire workflow, including data preprocessing, feature engineering, model training, and evaluation.
+- Also check the Clustering section!
   
 ## Models Used
 
